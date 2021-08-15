@@ -12,3 +12,4 @@ begin
   readln;
 end.
 
+teste2
