@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="sorteio10numerosVETOR.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="9"/>
+        <CursorPos X="45" Y="34"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="sorteio10numerosVETOR.pas"/>
+        <Caret Line="29" Column="5" TopLine="8"/>
+      </Position1>
+      <Position2>
+        <Filename Value="sorteio10numerosVETOR.pas"/>
+        <Caret Line="6" Column="15"/>
+      </Position2>
+      <Position3>
+        <Filename Value="sorteio10numerosVETOR.pas"/>
+        <Caret Line="3" Column="7"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
